@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  items: [
+    { "code": '01', "name": "Mobi" },
+    { "code": '02', "name": "Vina" },
+    { "code": '03', "name": "Vietel" },
+  ]
 }
